@@ -1,0 +1,33 @@
+(GIT 16,17)
+
+git init - инициализируй репозиторий
+
+git config --local/global user.name "Ivan" - настрйока автора
+
+git config --local/global user.email aleksandr-andrushin@yandex.ru - настрйока автора
+
+git status - проверяет статус файлов
+
+git add -A - добавляет все файлы в индекс
+
+git commit -a -m"first commit" - контрольная точка, копия файлов
+
+git log - просмотр выполненных комитов
+
+git push -u origin master - добавление файлов на удаленный репозиторий.
+
+git pull - получение данных с удаленного репозитория  
+
+(Протоколы 18)
+
+http 
+
+https
+
+SSL сертификат
+
+FTP
+
+FTPS
+
+SSH
